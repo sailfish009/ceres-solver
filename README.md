@@ -24,3 +24,5 @@ tracking. Please see our [Contributing to Ceres Guide](http://ceres-solver.org/c
 The upstream Gerrit repository is
 
     https://ceres-solver.googlesource.com/ceres-solver
+
+pip install sphinx-rtd-theme
