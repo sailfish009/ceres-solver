@@ -26,3 +26,5 @@ The upstream Gerrit repository is
     https://ceres-solver.googlesource.com/ceres-solver
 
 pip install sphinx-rtd-theme
+
+sphinx-build -b singlehtml source/ build/
